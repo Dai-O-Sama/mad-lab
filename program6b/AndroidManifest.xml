@@ -1,0 +1,2 @@
+<!-- add next line -->
+<uses-permission android:name="android.permission.READ_CONTACTS"/>
